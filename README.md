@@ -55,9 +55,10 @@ Este é um arquivo de fluxo do n8n. Para testar ou estudar a lógica:
 Este projeto foi idealizado e desenvolvido em equipe durante o Hackathon Academ.IA.
 
 * **João Guilherme (Eu):** AI Agent Development, n8n Workflow & Backend Logic.
-* **[Nome do Colega 1]:** Frontend (Lovable) & UI/UX.
+* **[João Beckman](https://github.com/JhonnyBeck-V):** Frontend (Lovable) & UI/UX.
 * **[Nome do Colega 2]:** Pitch & Business Modeling.
 * **[Nome do Colega 3]:** Data Analysis.
 
 ---
 *Disclaimer: Este projeto é um MVP (Minimum Viable Product) desenvolvido em ambiente de competição (Hackathon). O código reflete uma implementação ágil para validação de ideia.*
+
